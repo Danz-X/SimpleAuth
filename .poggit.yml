@@ -4,7 +4,7 @@ branches:
 - account-mapping
 - mergedmaster
 projects:
-  SimpleAuth:
+  SimpleAuthh:
     path: ""
     icon: sa.png
 ...
